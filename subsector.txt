@@ -1,0 +1,46 @@
+Dhodul		0102	B434222-B	NST	Lo 		   
+Bioth		0106	D300224-6		Lo Va 		  G
+Alath		0107	D657300-6	S	Ga Lo 		A G
+Kannin		0108	A442965-A	NT	Hi In Po 	  G
+Zylian		0109	D978131-2	S	Ga Lo Lt 	  G
+Brius		0110	B436687-7	T	NI 		   
+Aerevar		0201	E571377-8		Lo 		A G
+Zobean		0203	A6A0436-E	NT	De Ht NI 	A G
+Aelyr		0205	C310988-8	P	Hi In Na 	R G
+Gobul		0206	A869478-E	NRTI	Ht NI 		A G
+Aelnus		0207	C88AA79-E	S	Hi Ht Wa 	A G
+Evdrim		0210	D656300-8		Ga Lo 		A G
+Zacio		0303	CAA2643-8	S	Fl NI 		A G
+Dholius		0305	C864440-5	I	Ga Lt NI 	A G
+Fisgyr		0306	X725000-0		Ba Lt 		A G
+Havyr		0308	C795400-5	S	Ga Lt NI 	A G
+Sheyth		0309	E200640-6	P	Na NI Va 	R G
+Sehrog		0401	C253223-8		Lo Po 		  G
+Sylgul		0402	D362668-3	S	Lt NI Ri 	  G
+Daenin		0403	D8B1234-6		Fl Lo 		A G
+Sumog		0406	D757000-0		Ba Ga Lt 	A G
+Altus		0407	E354586-5		Ag Lt NI 	  G
+Marazyr		0408	E210798-4		Lt Na 		  G
+Haevar		0409	A322424-B	NRTI	NI Po 		  G
+Zralus		0410	D231200-A	S	Lo Po 		A G
+Gobemar		0501	C9A7401-9	S	Fl NI 		A G
+Yaiat		0503	DA9A149-4	S	Lo Lt Wa 	A G
+Fisther		0505	B887678-C	N	Ag Ga Ht NI Ri 	A G
+Atus		0506	C632541-A		NI Po 		  G
+Zobdul		0507	CAD7421-6		Fl NI 		A  
+Anean		0508	X548200-2		Ga Lo Lt 	A G
+Jarlian		0602	D437744-7				  G
+Firzog		0605	A3236A9-9	NTI	Na NI Po 	A  
+Ragthus		0608	A548455-C	NSTI	Ga Ht NI 	  G
+Babyr		0703	C978977-8	ST	Ga Hi In 	A G
+Brog		0704	D480226-8		De Lo 		  G
+Nyvyr		0708	A221758-C	TI	Ht Na Po 	   
+Bevyr		0710	C5467B9-7	RI	Ag Ga 		A  
+Kraoth		0801	C749559-7	I	NI 		A G
+Shedre		0803	D535599-6	S	NI 		A G
+Atin		0804	C4395A9-8	SP	NI 		R G
+Amather		0805	BA99200-D	SP	Ht Lo 		R  
+Dathus		0807	B563000-0	NST	Ba Lt 		A G
+Afrog		0809	C999599-8	SR	NI 		A G
+Dilus		0810	D765400-5	S	Ga Lt NI 	A  
+
